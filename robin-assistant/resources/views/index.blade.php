@@ -42,7 +42,14 @@
         <!-- Main content -->
         <div class="main">
             <div class="hero-image">
-
+                <div class="hero-content">
+                    <h1>VOORBEELDTITEL</h1>
+                    <p>
+                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+                        sed diam nonumy eirmod tempor invidunt ut labore et dolore 
+                    </p>
+                    <a class="hero-btn" href="#lees-meer">Lees meer</a>
+                </div>
             </div>
             <div class="main-content">
 
