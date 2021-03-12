@@ -41,8 +41,8 @@
 
         <!-- Main content -->
         <div class="main">
-            <div class="hero-image">
-                <div class="hero-content">
+            <section class="hero-image bg-color-444">
+                <div class="hero-content color-fff txt-cen">
                     <h1>VOORBEELDTITEL</h1>
                     <p>
                         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
@@ -50,9 +50,44 @@
                     </p>
                     <a class="hero-btn" href="#lees-meer">Lees meer</a>
                 </div>
-            </div>
+            </section>
             <div class="main-content">
-
+                <section class="overflow-vis">
+                    <div class="section overflow-vis h-250">
+                        <div class="img-div"></div>
+                        <div class="img-div"></div>
+                        <div class="img-div"></div>
+                    </div>
+                    <div class="section bg-color-444">
+                        <div class="txt-div color-fff txt-cen">
+                            <h3>VOORBEELDTITEL</h3>
+                            <p>
+                                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+                                sed diam nonumy eirmod tempor invidunt ut labore et 
+                                dolore magna aliquyam erat, sed diam
+                            </p>
+                        </div>
+                        <div class="txt-div color-fff txt-cen">
+                            <h3>VOORBEELDTITEL</h3>
+                            <p>
+                                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+                                sed diam nonumy eirmod tempor invidunt ut labore et 
+                                dolore magna aliquyam erat, sed diam
+                            </p>
+                        </div>
+                        <div class="txt-div color-fff txt-cen">
+                            <h3>VOORBEELDTITEL</h3>
+                            <p>
+                                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+                                sed diam nonumy eirmod tempor invidunt ut labore et 
+                                dolore magna aliquyam erat, sed diam
+                            </p>
+                        </div>
+                    </div>
+                </section>
+                <section class="">
+                    
+                </section>
             </div>
         </div>
 
