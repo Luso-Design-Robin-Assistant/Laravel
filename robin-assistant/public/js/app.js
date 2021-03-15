@@ -1848,9 +1848,9 @@ __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js"); //
 //  Sections:
 //  =============
 //  1. Header onScroll
-//  2. 
+//  2.
 //  =============
-// 
+//
 //
 //  1. Header onScroll
 //
@@ -1862,10 +1862,12 @@ $(function () {
       $(".navbar").addClass("navbar-scroll");
       $(".nav-link").addClass("nav-link-scroll");
       $(".nav-login-btn").addClass("nav-login-btn-scroll");
+      $(".navbar-logo").addClass("navbar-logo-scroll");
     } else {
       $(".navbar").removeClass("navbar-scroll");
       $(".nav-link").removeClass("nav-link-scroll");
       $(".nav-login-btn").removeClass("nav-login-btn-scroll");
+      $(".navbar-logo").removeClass("navbar-logo-scroll");
     }
   });
 });

@@ -21,9 +21,7 @@
         <!-- Navbar -->
         <nav class="navbar">
             <div class="navbar-content">
-                <div class="navbar-logo">
-                    <img src="" alt="">
-                </div>
+                <div class="navbar-logo"></div>
                 <div class="navbar-menu">
                     <div class="navbar-links">
                         <a class="nav-link" href="#what-is-robin">What is Robin?</a>
@@ -32,8 +30,10 @@
                         <a class="nav-link" href="#faq">FAQ</a>
                     </div>
                     <div class="navbar-login">
-                        <div class="nav-profile-img"></div>
-                        <a class="nav-login-btn" href="#login">Inloggen</a>
+                        <div class="nav-language">
+                            <img src="{{ asset('../resources/images/np.png') }}" alt="">
+                        </div>
+                        <a class="nav-login-btn" href="#login">Sign up/Login</a>
                     </div>
                 </div>
             </div>
@@ -43,50 +43,45 @@
         <div class="main">
             <section class="hero-image bg-color-444">
                 <div class="hero-content color-fff txt-cen">
-                    <h1>VOORBEELDTITEL</h1>
+                    <h1>Robin assists <br>
+                        your daily assistant</h1>
                     <p>
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
-                        sed diam nonumy eirmod tempor invidunt ut labore et dolore 
+                        Robin Assistant is a new assistive software solution for <br> people with special needs and their carers in performing
+                        <br> everyday activities.
                     </p>
-                    <a class="hero-btn" href="#lees-meer">Lees meer</a>
+                    <a class="hero-btn" href="#lees-meer">Read more</a>
                 </div>
             </section>
             <div class="main-content">
                 <section class="overflow-vis">
                     <div class="section overflow-vis h-250">
-                        <div class="img-div"></div>
-                        <div class="img-div"></div>
-                        <div class="img-div"></div>
+                        <div class="img-div">
+                            <div class="number">1</div>
+                        </div>
+                        <div class="img-div">
+                            <div class="number">2</div>
+                        </div>
+                        <div class="img-div">
+                            <div class="number">3</div>
+                        </div>
                     </div>
                     <div class="section bg-color-444">
                         <div class="txt-div color-fff txt-cen">
-                            <h3>VOORBEELDTITEL</h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
-                                sed diam nonumy eirmod tempor invidunt ut labore et 
-                                dolore magna aliquyam erat, sed diam
-                            </p>
+                            <h3>Independence</h3>
+                            <p>Robin has several benefits to make your daily life as comfortable as possible. What are the benefits of Robin Assistent and why should you use it?</p>
                         </div>
                         <div class="txt-div color-fff txt-cen">
-                            <h3>VOORBEELDTITEL</h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
-                                sed diam nonumy eirmod tempor invidunt ut labore et 
-                                dolore magna aliquyam erat, sed diam
-                            </p>
+                            <h3>Daily routines</h3>
+                            <p>Robin has several benefits to make your daily life as comfortable as possible. What are the benefits of Robin Assistent and why should you use it?</p>
                         </div>
                         <div class="txt-div color-fff txt-cen">
-                            <h3>VOORBEELDTITEL</h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
-                                sed diam nonumy eirmod tempor invidunt ut labore et 
-                                dolore magna aliquyam erat, sed diam
-                            </p>
+                            <h3>Dashboard management</h3>
+                            <p>Robin has several benefits to make your daily life as comfortable as possible. What are the benefits of Robin Assistent and why should you use it?</p>
                         </div>
                     </div>
                 </section>
                 <section class="">
-                    
+
                 </section>
             </div>
         </div>
