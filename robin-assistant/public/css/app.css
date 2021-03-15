@@ -71,6 +71,7 @@ p {
     width: 100%;
     display: grid;
     transition: .125s ease-in-out;
+    z-index: 999;
 }
 
 /* on scroll navbar background color */
@@ -92,6 +93,7 @@ p {
     height: 125px;
     background: url('../images/logo.png');
     background-size: cover;
+    background-position: 50% 50%;
 }
 
 /* on scroll logo color */
@@ -101,6 +103,7 @@ p {
     height: 100px;
     background: url('../images/logo-scroll.png');
     background-size: cover;
+    background-position: 50% 55%;
 }
 
 .navbar-menu {
