@@ -55,13 +55,13 @@
             <div class="main-content">
                 <section class="overflow-vis">
                     <div class="section overflow-vis h-250">
-                        <div class="img-div">
+                        <div class="box-div">
                             <div class="number">1</div>
                         </div>
-                        <div class="img-div">
+                        <div class="box-div">
                             <div class="number">2</div>
                         </div>
-                        <div class="img-div">
+                        <div class="box-div">
                             <div class="number">3</div>
                         </div>
                     </div>

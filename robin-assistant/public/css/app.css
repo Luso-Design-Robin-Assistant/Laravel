@@ -10,13 +10,13 @@
  *  1. General
  *  2. Navbar
  *  3. Main
- *  4.
+ *  4. 
  *  5. Media queries
  *  =============
  *
  */
 
-/*
+/* 
  *  1. General
  */
 
@@ -58,7 +58,7 @@ p {
     font-weight: 300;
 }
 
-/*
+/* 
  *  2. Navbar
  */
 
@@ -90,7 +90,16 @@ p {
     width: 250px;
     display: flex;
     height: 125px;
-    background: url('../resources/images/logo.png');
+    background: url(/images/logo.png?c5b18681f266d31d5545b855d3f51443);
+    background-size: cover;
+}
+
+/* on scroll logo color */
+.navbar-logo-scroll {
+    width: 250px;
+    display: flex;
+    height: 100px;
+    background: url(/images/logo-scroll.png?754da232fa091ad45e6709b742455974);
     background-size: cover;
 }
 
@@ -169,16 +178,7 @@ p {
     transition: .125s ease-in-out;
 }
 
- /* on scroll logo color */
-
-.navbar-logo-scroll {
-    width: 250px;
-    display: flex;
-    height: 100px;
-    background: url('../resources/images/logo-scroll.png');
-    background-size: cover;
-}
- /*
+ /* 
  *  3. Main
  */
 
@@ -196,10 +196,9 @@ p {
     align-items: center;
     background-image:
     linear-gradient(to bottom, rgba(0, 0, 0, 0.50), rgba(41, 41, 41, 1)),
-    url('../resources/images/banner.jpg');
+    url(/images/banner.jpg?9d5ef2bd28f106ae4822be1f95378b9d);
     background-size: cover;
     background-position: center;
-
 }
 
 /* hero center content */
@@ -223,10 +222,10 @@ p {
 }
 
 .hero-btn {
-    border: none;
     background-color: #4DA16E;
     color: white;
     font-size: 18px;
+    font-size: 24px;
     text-decoration: none;
     border-radius: 99px;
     padding: 15px 60px;
@@ -254,7 +253,7 @@ p {
     padding: 0 140px;
 }
 
-.img-div {
+.box-div {
     width: 400px;
     height: 400px;
     background-color: #4DA16E;
@@ -289,13 +288,13 @@ p {
     margin-bottom: 0;
 }
 
- /*
- *  4.
+ /* 
+ *  4. 
  */
 
 
 
-  /*
+  /* 
  *  5. Media queries
  */
 
