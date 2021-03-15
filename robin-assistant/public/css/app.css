@@ -90,7 +90,7 @@ p {
     width: 250px;
     display: flex;
     height: 125px;
-    background: url(/images/logo.png?c5b18681f266d31d5545b855d3f51443);
+    background: url('../images/logo.png');
     background-size: cover;
 }
 
@@ -99,7 +99,7 @@ p {
     width: 250px;
     display: flex;
     height: 100px;
-    background: url(/images/logo-scroll.png?754da232fa091ad45e6709b742455974);
+    background: url('../images/logo-scroll.png');
     background-size: cover;
 }
 
@@ -196,7 +196,7 @@ p {
     align-items: center;
     background-image:
     linear-gradient(to bottom, rgba(0, 0, 0, 0.50), rgba(41, 41, 41, 1)),
-    url(/images/banner.jpg?9d5ef2bd28f106ae4822be1f95378b9d);
+    url('../images/banner.jpg');
     background-size: cover;
     background-position: center;
 }
