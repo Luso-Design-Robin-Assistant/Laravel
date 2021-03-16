@@ -18,7 +18,7 @@
 
     <body>
 
-        <!-- Navbar -->
+        <!-- Header -->
         <nav class="navbar">
             <div class="navbar-content">
                 <div class="navbar-logo"></div>
@@ -117,6 +117,15 @@
                 </section>
             </div>
         </div>
+
+        <!-- Footer -->
+        <footer class="bg-dgrey">
+            <div class="footer-content">
+                <p class="color-white">&copy; Copyright 2021 Luso Design</p>
+                <a class="footer-link color-white" href="#">Privacyverklaring</a>
+                <a class="footer-link color-white" href="#">Algemene voorwaarden</a>
+            </div>
+        </footer>
 
     </body>
 

@@ -8,9 +8,9 @@
  *  Sections:
  *  =============
  *  1. General
- *  2. Navbar
+ *  2. Header
  *  3. Main
- *  4. 
+ *  4. Footer
  *  5. Media queries
  *  =============
  *
@@ -65,7 +65,7 @@ p {
 }
 
 /* 
- *  2. Navbar
+ *  2. Header
  */
 
 .navbar {
@@ -248,12 +248,11 @@ p {
 }
 
 .main-content {
-    width: calc(100% - 280px);
+    width: 100%;
     height: 100%;
 }
 
 .section-1 {
-    width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -262,7 +261,6 @@ p {
 }
 
 .section-2 {
-    width: 100%;
     display: grid;
     grid-template-columns: 9fr 11fr;
     padding: 0 140px;
@@ -333,10 +331,40 @@ p {
 }
 
  /* 
- *  4. 
+ *  4. Footer
  */
 
+footer {
+    width: calc(100% - 280px);
+    height: 120px;
+    padding: 0 140px;
+}
 
+.footer-content {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-content p {
+    margin: 0 30px 0 0;
+}
+
+.footer-link {
+    font-weight: 300;
+    text-decoration: none;
+    margin: 0 30px 0 0;
+}
+
+.footer-link:hover {
+    color: #bbb;
+}
+
+.footer-link:last-child {
+    margin: 0 0 0 0;
+}
 
   /* 
  *  5. Media queries
