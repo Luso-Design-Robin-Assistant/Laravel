@@ -343,6 +343,15 @@ p {
 
 .sign-up-div {
     padding: 100px 0;
+    width: 100%;
+}
+
+.c-how {
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
 }
 
 .button-div {

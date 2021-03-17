@@ -125,6 +125,13 @@
                         </div>
                     </div>
                 </section>
+                <section class="c-how section overflow-vis">
+                    <div class="bg-dgrey overflow-vis txt-div color-fff txt-cen sign-up-div">
+                        <h3>How does it work</h3>
+                        <p>The service consists of two parts: the online dashboard for <br> the carers and the mobile app for the person that requires
+                            <br>special care.</p>
+                    </div>
+                </section>
             </div>
 
         </div>
