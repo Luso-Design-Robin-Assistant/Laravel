@@ -68,20 +68,20 @@
                     <div class="section-1 bg-dgrey">
                         <div class="txt-div color-white txt-cen">
                             <h3>Independence</h3>
-                            <p>Robin has several benefits to make your daily life 
-                                as comfortable as possible. What are the benefits 
+                            <p>Robin has several benefits to make your daily life
+                                as comfortable as possible. What are the benefits
                                 of Robin Assistent and why should you use it?</p>
                         </div>
                         <div class="txt-div color-white txt-cen">
                             <h3>Daily routines</h3>
-                            <p>Robin has several benefits to make your daily life 
-                                as comfortable as possible. What are the benefits 
+                            <p>Robin has several benefits to make your daily life
+                                as comfortable as possible. What are the benefits
                                 of Robin Assistent and why should you use it?</p>
                         </div>
                         <div class="txt-div color-white txt-cen">
                             <h3>Dashboard management</h3>
-                            <p>Robin has several benefits to make your daily life 
-                                as comfortable as possible. What are the benefits 
+                            <p>Robin has several benefits to make your daily life
+                                as comfortable as possible. What are the benefits
                                 of Robin Assistent and why should you use it?</p>
                         </div>
                     </div>
@@ -91,31 +91,42 @@
                         <div class="img-section-2"></div>
                         <div class="txt-section-2">
                             <h1 class="color-green">What is robin service?</h1>
-                            <p>Robin is an assistive software solution that allows 
-                                carers to set up and plan daily activities for the 
-                                ones they are taking care of. Robin will then assist 
-                                the individual in performing these activities by 
-                                providing step-by-step guidance, using images, 
+                            <p>Robin is an assistive software solution that allows
+                                carers to set up and plan daily activities for the
+                                ones they are taking care of. Robin will then assist
+                                the individual in performing these activities by
+                                providing step-by-step guidance, using images,
                                 text and audio instructions.</p>
-                            <p>During the XI Autism-Europe International Congress 
-                                2016 in Edinburgh, one small booth surprised many 
-                                of the attendees. It was Robin officially presenting 
-                                for the first time, showcasing its interface and 
-                                fresh design which was developed together with 
-                                Mediacollege Amsterdam. The Robin team was very 
-                                happy to have been met with overwhelmingly positive 
-                                reactions, advice, and support from people with 
-                                autism, their family members and carers, therapists, 
-                                and autism specialists. All of them provided their 
-                                feedback, opinions, new ideas, and many other very 
-                                useful contributions. Everyone shared our goal of 
-                                creating a service that fully caters to the needs 
-                                of people with special needs, helping them to have 
+                            <p>During the XI Autism-Europe International Congress
+                                2016 in Edinburgh, one small booth surprised many
+                                of the attendees. It was Robin officially presenting
+                                for the first time, showcasing its interface and
+                                fresh design which was developed together with
+                                Mediacollege Amsterdam. The Robin team was very
+                                happy to have been met with overwhelmingly positive
+                                reactions, advice, and support from people with
+                                autism, their family members and carers, therapists,
+                                and autism specialists. All of them provided their
+                                feedback, opinions, new ideas, and many other very
+                                useful contributions. Everyone shared our goal of
+                                creating a service that fully caters to the needs
+                                of people with special needs, helping them to have
                                 a better quality of life.</p>
                         </div>
                     </div>
                 </section>
+                <section class="sign-up section overflow-vis">
+                    <div class="txt-div color-fff txt-cen sign-up-div">
+                        <h3>Sign up now</h3>
+                        <p>Did we already convince you? Get Robin Assistant today
+                            and start helping others.</p>
+                        <div class="button-div">
+                            <a class="nav-login-btn" href="#login" style="color: white;">Sign up/Login</a>
+                        </div>
+                    </div>
+                </section>
             </div>
+
         </div>
 
         <!-- Footer -->

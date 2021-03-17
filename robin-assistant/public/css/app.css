@@ -16,7 +16,7 @@
  *
  */
 
-/* 
+/*
  *  1. General
  */
 
@@ -64,7 +64,7 @@ p {
     font-weight: 300;
 }
 
-/* 
+/*
  *  2. Header
  */
 
@@ -187,7 +187,7 @@ p {
     transition: .125s ease-in-out;
 }
 
- /* 
+ /*
  *  3. Main
  */
 
@@ -330,7 +330,25 @@ p {
     margin-bottom: 0;
 }
 
- /* 
+.sign-up {
+    display: flex;
+    justify-content: center;
+    background:
+        linear-gradient(to bottom, rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.5)), center
+        url('../resources/images/hands.jpg');
+    background-size: cover;
+    width: 100%;
+    color: white;
+}
+
+.sign-up-div {
+    padding: 100px 0;
+}
+
+.button-div {
+    margin-top: 30px;
+}
+ /*
  *  4. Footer
  */
 
@@ -366,7 +384,7 @@ footer {
     margin: 0 0 0 0;
 }
 
-  /* 
+  /*
  *  5. Media queries
  */
 
