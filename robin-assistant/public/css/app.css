@@ -16,7 +16,7 @@
  *
  */
 
-/*
+/* 
  *  1. General
  */
 
@@ -64,7 +64,7 @@ p {
     font-weight: 300;
 }
 
-/*
+/* 
  *  2. Header
  */
 
@@ -187,7 +187,7 @@ p {
     transition: .125s ease-in-out;
 }
 
- /*
+ /* 
  *  3. Main
  */
 
@@ -357,7 +357,8 @@ p {
 .button-div {
     margin-top: 30px;
 }
- /*
+
+ /* 
  *  4. Footer
  */
 
@@ -393,7 +394,7 @@ footer {
     margin: 0 0 0 0;
 }
 
-  /*
+  /* 
  *  5. Media queries
  */
 
