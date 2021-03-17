@@ -25,7 +25,7 @@
                 <div class="navbar-menu">
                     <div class="navbar-links">
                         <a class="nav-link" href="#what-is-robin">What is Robin?</a>
-                        <a class="nav-link" href="#benefits">Benefits</a>
+                        <!-- <a class="nav-link" href="#benefits">Benefits</a> -->
                         <a class="nav-link" href="#how-it-works">How does it work?</a>
                         <a class="nav-link" href="#faq">FAQ</a>
                     </div>
@@ -115,7 +115,7 @@
                         </div>
                     </div>
                 </section>
-                <section class="sign-up section overflow-vis">
+                <section class="sign-up overflow-vis">
                     <div class="txt-div color-fff txt-cen sign-up-div">
                         <h3>Sign up now</h3>
                         <p>Did we already convince you? Get Robin Assistant today
@@ -125,11 +125,49 @@
                         </div>
                     </div>
                 </section>
-                <section class="c-how section overflow-vis">
+                <section id="how-it-works" class="c-how overflow-vis">
                     <div class="bg-dgrey overflow-vis txt-div color-fff txt-cen sign-up-div">
                         <h3>How does it work</h3>
                         <p>The service consists of two parts: the online dashboard for <br> the carers and the mobile app for the person that requires
                             <br>special care.</p>
+                    </div>
+                </section>
+
+                <section class="faq bg-dgrey">
+                    <div class="faq-txt-div">
+                        <h1 class="color-white txt-cen">FAQ</h1>    
+                    </div>
+                    <div class="faq-content">
+                        <div class="faq-item color-white">
+                            <h2>1. Veelgestelde vraag</h2>
+                        </div>
+                        <div class="faq-item color-white">
+                            <h2>2. Veelgestelde vraag</h2>
+                        </div>
+                        <div class="faq-item color-white">
+                            <h2>3. Veelgestelde vraag</h2>
+                        </div>
+                        <div class="faq-item color-white">
+                            <h2>4. Veelgestelde vraag</h2>
+                        </div>
+                        <div class="faq-item color-white">
+                            <h2>5. Veelgestelde vraag</h2>
+                        </div>
+                        <div class="faq-item color-white">
+                            <h2>6. Veelgestelde vraag</h2>
+                        </div>
+                    </div>
+                </section>
+                <section class="partners">
+                    <div class="partners-txt-div">
+                        <h1 class="color-green txt-cen">Partners</h1>
+                    </div>
+                    <div class="partners-img-div">
+                        <div class="partners-img bg-dgrey color-white">1</div>
+                        <div class="partners-img bg-dgrey color-white">2</div>
+                        <div class="partners-img bg-dgrey color-white">3</div>
+                        <div class="partners-img bg-dgrey color-white">4</div>
+                        <div class="partners-img bg-dgrey color-white">5</div>
                     </div>
                 </section>
             </div>
