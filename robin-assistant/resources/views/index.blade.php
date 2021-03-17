@@ -118,7 +118,7 @@
                 <section class="sign-up overflow-vis">
                     <div class="txt-div color-fff txt-cen sign-up-div">
                         <h3>Sign up now</h3>
-                        <p>Did we already convince you? Get Robin Assistant today
+                        <p>Did we already convince you? Get Robin Assistant today <br>
                             and start helping others.</p>
                         <div class="button-div">
                             <a class="nav-login-btn" href="#login" style="color: white;">Sign up/Login</a>
@@ -132,10 +132,27 @@
                             <br>special care.</p>
                     </div>
                 </section>
-
+                <section id="dashboard">
+                    <div class="section-4 bg-white">
+                        <div class="txt-section-3">
+                            <h1 class="color-green">Online dashboard</h1>
+                            <p>The carer can access Robin through the website www.Robinassists.me from a computer or any other internet enabled device and log in on their personal Dashboard. There, they can program the person’s tasks for the day, week, or even the entire month, with the option to modify them at any time. They can configure the order of the activities and the duration of each step for one or more persons, for instance. Moreover, they can establish an action for the “panic” button. This action can be calling, texting, or sending an email message to a dedicated person (the carer or a relative of the individual) directly from the Robin app.</p>
+                        </div>
+                        <div class="img-section-4"></div>
+                    </div>
+                </section>
+                <section id="mobile-app">
+                    <div class="section-2 bg-white">
+                        <div class="img-section-3"></div>
+                        <div class="txt-section-2">
+                            <h1 class="color-green">Mobile App</h1>
+                            <p>The activities programmed by the carer in the online dashboard are sent to the individual’s Robin mobile application. When it is time to perform an activity, the app will notify the individual through an alert or notification. This will prompt them to open the scheduled activity in the Robin mobile app, which will automatically show every step to follow to complete the activity. Each step will be carefully explained by voice, text, and images. Robin also indicates the maximum amount of time the individual should take for each step and allows them to repeat the instruction of each step, if necessary. Once all the steps in the activity have been completed, the Robin app will return to the calendar to show the scheduled tasks for that day or week. When the application is closed, it will remain inactive until it is time for a new activity.</p>
+                        </div>
+                    </div>
+                </section>
                 <section class="faq bg-dgrey">
                     <div class="faq-txt-div">
-                        <h1 class="color-white txt-cen">FAQ</h1>    
+                        <h1 class="color-white txt-cen">FAQ</h1>
                     </div>
                     <div class="faq-content">
                         <div class="faq-item color-white">
@@ -170,10 +187,8 @@
                         <div class="partners-img bg-dgrey color-white">5</div>
                     </div>
                 </section>
-            </div>
-
+             </div>
         </div>
-
         <!-- Footer -->
         <footer class="bg-dgrey">
             <div class="footer-content">
@@ -182,7 +197,6 @@
                 <a class="footer-link color-white" href="#">Algemene voorwaarden</a>
             </div>
         </footer>
-
     </body>
 
     <!-- Scripts -->
