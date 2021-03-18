@@ -156,22 +156,22 @@
                     </div>
                     <div class="faq-content">
                         <div class="faq-item color-white">
-                            <h2>1. Veelgestelde vraag</h2>
+                            <h2>1. frequently asked question</h2>
                         </div>
                         <div class="faq-item color-white">
-                            <h2>2. Veelgestelde vraag</h2>
+                            <h2>2. frequently asked question</h2>
                         </div>
                         <div class="faq-item color-white">
-                            <h2>3. Veelgestelde vraag</h2>
+                            <h2>3. frequently asked question</h2>
                         </div>
                         <div class="faq-item color-white">
-                            <h2>4. Veelgestelde vraag</h2>
+                            <h2>4. frequently asked question</h2>
                         </div>
                         <div class="faq-item color-white">
-                            <h2>5. Veelgestelde vraag</h2>
+                            <h2>5. frequently asked question</h2>
                         </div>
                         <div class="faq-item color-white">
-                            <h2>6. Veelgestelde vraag</h2>
+                            <h2>6. frequently asked question</h2>
                         </div>
                     </div>
                 </section>

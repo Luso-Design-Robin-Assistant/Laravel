@@ -16,7 +16,7 @@
  *
  */
 
-/* 
+/*
  *  1. General
  */
 
@@ -64,7 +64,7 @@ p {
     font-weight: 300;
 }
 
-/* 
+/*
  *  2. Header
  */
 
@@ -187,7 +187,7 @@ p {
     transition: .125s ease-in-out;
 }
 
- /* 
+ /*
  *  3. Main
  */
 
@@ -399,7 +399,7 @@ p {
 }
 
 .faq-txt-div h1 {
-    font-size: 48px;
+    font-size: 36px;
     text-transform: uppercase;
     margin: 0 0 80px 0;
 }
@@ -414,13 +414,13 @@ p {
 
 .faq-item {
     width: 40%;
-    padding-bottom: 70px;
+    padding-bottom: 45px;
     border-bottom: 4px solid #FFF;
     margin-bottom: 100px;
 }
 
 .faq-item h2 {
-    font-size: 48px;
+    font-size: 32px;
     text-transform: uppercase;
     margin: 0;
 }
@@ -468,7 +468,7 @@ p {
     font-weight: 600;
 }
 
- /* 
+ /*
  *  4. Footer
  */
 
@@ -504,7 +504,7 @@ footer {
     margin: 0 0 0 0;
 }
 
-  /* 
+  /*
  *  5. Media queries
  */
 
